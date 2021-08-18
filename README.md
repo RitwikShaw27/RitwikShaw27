@@ -1,3 +1,4 @@
+[![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm RITWIK SHAW</h1>
 <h3 align="center">A passionate full stack developer from India. Currently I am a 2nd year student of RCC INSTITUTE OF INFORMATION TECHNOLOGY pursuing BTech in the field of Computer Science exploring different facets of technology.</h3>
 
