@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm RITWIK SHAW</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px">, I'm RITWIK SHAW</h1>
 <h3 align="center">A passionate full stack developer from India. Currently I am a 3rd year student of RCC INSTITUTE OF INFORMATION TECHNOLOGY pursuing BTech in the field of Computer Science exploring different facets of technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwikshaw27&label=Profile%20views&color=0e75b6&style=flat" alt="ritwikshaw27" /> </p>
