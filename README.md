@@ -3,7 +3,7 @@
  <h1 align="center">Hi , I'm RITWIK SHAW </h1>
   
 
-<h3 align="center">A passionate full stack developer from India. Currently I am a 3rd year student of RCC INSTITUTE OF INFORMATION TECHNOLOGY pursuing BTech in the field of Computer Science exploring different facets of technology. </h3>
+<h3 align="center">A passionate full stack developer from India. Currently I am a 4th year student of RCC INSTITUTE OF INFORMATION TECHNOLOGY pursuing BTech in the field of Computer Science exploring different facets of technology. </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritwikshaw27&label=Profile%20views&color=0e75b6&style=flat" alt="ritwikshaw27" /> </p>
